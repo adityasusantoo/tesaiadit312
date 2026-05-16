@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "tesaiadit312",
+  "compatibility_date": "2026-05-16",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "sakenmotion.vercel.app"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
